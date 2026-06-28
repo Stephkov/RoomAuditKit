@@ -272,18 +272,7 @@ Run the sample from Android Studio by selecting the `sample` configuration.
 
 <p align="center">
   <img src="screenshots/Screenshot%202026-06-27%20163630.png" width="230" alt="alt1" />
-  <img src="screenshots/Screenshot%202026-06-27%20163641.png" width="230" alt="alt2" />
   <img src="screenshots/Screenshot%202026-06-27%20163703.png" width="230" alt="alt3" />
-</p>
-
-<p align="center">
-  <img src="screenshots/Screenshot%202026-06-27%20163715.png" width="230" alt="alt4" />
-  <img src="screenshots/Screenshot%202026-06-27%20163731.png" width="230" alt="alt5" />
-  <img src="screenshots/Screenshot%202026-06-27%20163740.png" width="230" alt="alt6" />
-</p>
-
-<p align="center">
-  <img src="screenshots/Screenshot%202026-06-27%20163750.png" width="230" alt="alt7" />
 </p>
 ## API Overview
 

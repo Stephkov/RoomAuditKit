@@ -1,0 +1,2 @@
+jdk:
+  - openjdk17git commit -m "Add JitPack configuration"
